@@ -1,0 +1,42 @@
+{
+  "LL100025": {
+    "Genotype": "test",
+    "Coffee": ""
+  },
+  "LL100125": {
+    "Genotype": "AA",
+    "Coffee": "B"
+  },
+  "LL100225": {
+    "Genotype": "Failed",
+    "Coffee": "B"
+  },
+  "LL100325": {
+    "Genotype": "CC",
+    "Coffee": "A"
+  },
+  "LL100425": {
+    "Genotype": "AC",
+    "Coffee": "A"
+  },
+  "LL100525": {
+    "Genotype": "AC",
+    "Coffee": ""
+  },
+  "LL100625": {
+    "Genotype": "Unclear",
+    "Coffee": ""
+  },
+  "LL100725": {
+    "Genotype": "CC",
+    "Coffee": ""
+  },
+  "LL100825": {
+    "Genotype": "nan",
+    "Coffee": ""
+  },
+  "LL100925": {
+    "Genotype": "AA",
+    "Coffee": "B"
+  }
+}
