@@ -1,0 +1,214 @@
+{
+  "LL100025": {
+    "Genotype": "test",
+    "Coffee": ""
+  },
+  "LL100125": {
+    "Genotype": "AC",
+    "Coffee": "A"
+  },
+  "LL100225": {
+    "Genotype": "AA",
+    "Coffee": "B"
+  },
+  "LL100325": {
+    "Genotype": "AC",
+    "Coffee": "B"
+  },
+  "LL100425": {
+    "Genotype": "AC",
+    "Coffee": "B"
+  },
+  "LL100525": {
+    "Genotype": "AC",
+    "Coffee": "A"
+  },
+  "LL100625": {
+    "Genotype": "AA",
+    "Coffee": "B"
+  },
+  "LL100725": {
+    "Genotype": "Unclear",
+    "Coffee": ""
+  },
+  "LL100825": {
+    "Genotype": "AA",
+    "Coffee": "A"
+  },
+  "LL100925": {
+    "Genotype": "AA",
+    "Coffee": "A"
+  },
+  "LL101025": {
+    "Genotype": "AA",
+    "Coffee": "B"
+  },
+  "LL101125": {
+    "Genotype": "AA",
+    "Coffee": "A"
+  },
+  "LL101225": {
+    "Genotype": "AC",
+    "Coffee": "B"
+  },
+  "LL101325": {
+    "Genotype": "Unclear",
+    "Coffee": ""
+  },
+  "LL101425": {
+    "Genotype": "AC",
+    "Coffee": "A"
+  },
+  "LL101525": {
+    "Genotype": "AC",
+    "Coffee": "B"
+  },
+  "LL101625": {
+    "Genotype": "AC",
+    "Coffee": "A"
+  },
+  "LL101725": {
+    "Genotype": "AA",
+    "Coffee": "A"
+  },
+  "LL101825": {
+    "Genotype": "AA",
+    "Coffee": "B"
+  },
+  "LL101925": {
+    "Genotype": "AA",
+    "Coffee": "B"
+  },
+  "LL102025": {
+    "Genotype": "AA",
+    "Coffee": "A"
+  },
+  "LL102125": {
+    "Genotype": "AA",
+    "Coffee": "B"
+  },
+  "LL102225": {
+    "Genotype": "AC",
+    "Coffee": "A"
+  },
+  "LL102325": {
+    "Genotype": "AA",
+    "Coffee": "B"
+  },
+  "LL102425": {
+    "Genotype": "AA",
+    "Coffee": "A"
+  },
+  "LL102525": {
+    "Genotype": "AC",
+    "Coffee": "B"
+  },
+  "LL102625": {
+    "Genotype": "AC",
+    "Coffee": "B"
+  },
+  "LL102725": {
+    "Genotype": "AA",
+    "Coffee": "A"
+  },
+  "LL102825": {
+    "Genotype": "AC",
+    "Coffee": "A"
+  },
+  "LL102925": {
+    "Genotype": "CC",
+    "Coffee": "B"
+  },
+  "LL103025": {
+    "Genotype": "AA",
+    "Coffee": "A"
+  },
+  "LL103125": {
+    "Genotype": "AA",
+    "Coffee": "B"
+  },
+  "LL103225": {
+    "Genotype": "AA",
+    "Coffee": "A"
+  },
+  "LL103325": {
+    "Genotype": "AA",
+    "Coffee": "A"
+  },
+  "LL103425": {
+    "Genotype": "AA",
+    "Coffee": "B"
+  },
+  "LL103525": {
+    "Genotype": "AC",
+    "Coffee": "A"
+  },
+  "LL103625": {
+    "Genotype": "AA",
+    "Coffee": "B"
+  },
+  "LL103725": {
+    "Genotype": "AC",
+    "Coffee": "B"
+  },
+  "LL103825": {
+    "Genotype": "CC",
+    "Coffee": "A"
+  },
+  "LL103925": {
+    "Genotype": "AA",
+    "Coffee": "A"
+  },
+  "LL104025": {
+    "Genotype": "AA",
+    "Coffee": "B"
+  },
+  "LL104125": {
+    "Genotype": "AA",
+    "Coffee": "B"
+  },
+  "LL104225": {
+    "Genotype": "AA",
+    "Coffee": "A"
+  },
+  "LL104325": {
+    "Genotype": "AC",
+    "Coffee": "B"
+  },
+  "LL104425": {
+    "Genotype": "AA",
+    "Coffee": "A"
+  },
+  "LL104525": {
+    "Genotype": "AA",
+    "Coffee": "B"
+  },
+  "LL104625": {
+    "Genotype": "AC",
+    "Coffee": "A"
+  },
+  "LL104725": {
+    "Genotype": "AA",
+    "Coffee": "A"
+  },
+  "LL104825": {
+    "Genotype": "AA",
+    "Coffee": "B"
+  },
+  "LL104925": {
+    "Genotype": "AA",
+    "Coffee": "A"
+  },
+  "LL105025": {
+    "Genotype": "AC",
+    "Coffee": "B"
+  },
+  "LL105125": {
+    "Genotype": "AC",
+    "Coffee": "B"
+  },
+  "LL105225": {
+    "Genotype": "AC",
+    "Coffee": "B"
+  }
+}
